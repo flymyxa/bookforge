@@ -1,0 +1,8 @@
+config.py
+main.py
+pyproject.toml
+bookforge_backend.egg-info/PKG-INFO
+bookforge_backend.egg-info/SOURCES.txt
+bookforge_backend.egg-info/dependency_links.txt
+bookforge_backend.egg-info/requires.txt
+bookforge_backend.egg-info/top_level.txt

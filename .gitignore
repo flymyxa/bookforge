@@ -1,0 +1,33 @@
+.next/
+node_modules/
+dist/
+build/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+frontend/.next/
+backend/.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local data
+*.sqlite
+*.sqlite3
+*.db
+bookforge.db
+storage/
+uploads/
