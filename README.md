@@ -27,9 +27,9 @@ Pre-seed. Applying to **a16z Speedrun SR007** (Summer/Fall 2026).
 
 ## Layout
 
-- `frontend/` — Next.js app (chat UI, form wizard, Factorio pipeline view)
-- `backend/` — FastAPI orchestrator, prompt engine, worker pool
-- `shared/` — stage constants and schema references
+- `frontend/`: Next.js app (chat UI, form wizard, Factorio pipeline view)
+- `backend/`: FastAPI orchestrator, prompt engine, worker pool
+- `shared/`: stage constants and schema references
 
 ## Local development
 
@@ -61,7 +61,7 @@ docker compose up -d
 
 ## Founder
 
-[Serhii Komar](https://www.linkedin.com/in/serhii-komar) — 16 years in mobile games. Most recently Sr PM at AppLovin (scaled Merge Sticker Playbook from $30K to $600K MRR in 4 months; grew Found It! revenue +137%). Founded Komar Games, Mizar Games, Play Cute. Building BookForge solo, hiring CTO co-founder with Speedrun's first dollar.
+[Serhii Komar](https://www.linkedin.com/in/serhii-komar). 16 years in mobile games. Most recently Sr PM at AppLovin (took Merge Sticker Playbook from $30K to $600K MRR in 4 months; grew Found It! revenue +137%). Founded Komar Games, Mizar Games, Play Cute. Building BookForge solo, hiring CTO co-founder with Speedrun's first dollar.
 
 ## License
 
